@@ -1,0 +1,30 @@
+table, td, th{
+    border: 1px solid black;
+}
+
+td, th{
+    padding: 5px;
+    border-radius: 0px;
+    text-align: center;
+}
+
+table {
+    background-color: antiquewhite;
+    border-spacing: 10px;
+}
+
+div{
+    background-color: blueviolet;
+    width: 250px;
+    height: 200px;
+    padding: 20px;
+}
+
+#Luisa{
+    background-color: red;
+}
+
+.jiret{
+    color: yellow;
+    background-color: rebeccapurple;
+}
